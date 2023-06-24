@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "995D34C5-89E4-4989-BCB6-A83341C59693"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D83B2329-17D7-4FB4-961F-E775B4CD92E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaBbva/Modules/Login/Presenter/LoginViewPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getUsersComplete(userSelected:listUsers:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D83B2329-17D7-4FB4-961F-E775B4CD92E7 - fb6726a50971f515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaBbva.LoginViewPresenter.getUsersComplete(userSelected: PruebaBbva.User) -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Presenter/LoginViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "D83B2329-17D7-4FB4-961F-E775B4CD92E7 - 8369eb6bcd99d739"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaBbva.LoginViewPresenter.getUsersComplete(userSelected: PruebaBbva.User, listUsers: Swift.Array&lt;PruebaBbva.User&gt;) -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Presenter/LoginViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EF13271-2228-4742-AF0F-516155C4F157"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getUsers()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "5EF13271-2228-4742-AF0F-516155C4F157 - 1ab3b3f5ab48563d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "5EF13271-2228-4742-AF0F-516155C4F157 - 1ab3b3f5ab48563d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+               <Location
+                  uuid = "5EF13271-2228-4742-AF0F-516155C4F157 - 1ab3b3f5ab48563d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "5EF13271-2228-4742-AF0F-516155C4F157 - 1ab3b3f5ab48563d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "5EF13271-2228-4742-AF0F-516155C4F157 - 1ab3b3f5ab48561c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "5EF13271-2228-4742-AF0F-516155C4F157 - 1ab3b3f5ab48561c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3D7A8F1-7EF1-4E03-8400-680CFF32399B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getUsers()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C3D7A8F1-7EF1-4E03-8400-680CFF32399B - 1ab3b3f5ab48565e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "2104">
+               </Location>
+               <Location
+                  uuid = "C3D7A8F1-7EF1-4E03-8400-680CFF32399B - 1ab3b3f5ab48565e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "2008">
+               </Location>
+               <Location
+                  uuid = "C3D7A8F1-7EF1-4E03-8400-680CFF32399B - 1ab3b3f5ab48563d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Array&lt;PruebaBbva.User&gt;) -&gt; () in PruebaBbva.LoginViewInteractor.getUsers() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "296C8130-C8DB-4598-8DE6-ACF5A15DC695"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaBbva/API/Service.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchUsers(results:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D30B8E0-4DF1-48B2-A01A-8411CC5EB4E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaBbva/Modules/Login/Presenter/LoginViewPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "prepareUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D30B8E0-4DF1-48B2-A01A-8411CC5EB4E8 - 7b1f8bbba3c534b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaBbva.LoginViewPresenter.prepareUI() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Presenter/LoginViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "4468">
+               </Location>
+               <Location
+                  uuid = "7D30B8E0-4DF1-48B2-A01A-8411CC5EB4E8 - 7b1f8bbba3c53573"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaBbva.LoginViewPresenter.prepareUI() -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Login/Presenter/LoginViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "4468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DFF1A45-41F6-4474-8CF6-7BF0DCD088E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaBbva/Modules/Home /Views/Cell/UserTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "setUp(user:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8DFF1A45-41F6-4474-8CF6-7BF0DCD088E5 - a402757be99d42c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaBbva.UserTableViewCell.attributedInfo(user: PruebaBbva.User) -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Home%20/Views/Cell/UserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+               <Location
+                  uuid = "8DFF1A45-41F6-4474-8CF6-7BF0DCD088E5 - bc1465816cee2be8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaBbva.UserTableViewCell.setUp(user: PruebaBbva.User) -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Home%20/Views/Cell/UserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8DFF1A45-41F6-4474-8CF6-7BF0DCD088E5 - bc1465816cee2b4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PruebaBbva.UserTableViewCell.setUp(user: PruebaBbva.User) -&gt; ()"
+                  moduleName = "PruebaBbva"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisetarelisanchezmartinez/Documents/PruebaBbva/PruebaBbva/Modules/Home%20/Views/Cell/UserTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD2BCF28-647F-42EF-9709-AED01D985A0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getUsers()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6EDF4E6-35D6-4CC0-AFAC-BEB2970C4D2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaBbva/Modules/Login/Interactor/LoginViewInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getUsers()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
